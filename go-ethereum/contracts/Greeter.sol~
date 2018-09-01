@@ -1,0 +1,10 @@
+
+pragma solidity ^0.4.0
+contact Greeter
+{
+	address creadtor;
+	string greeting;
+	
+	function Greeter(string _greeting) public
+	{
+		creator =
